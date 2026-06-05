@@ -46,30 +46,15 @@ This separation makes the code easier to understand, test, and extend. The UI ca
 
 ## Screenshots
 
-The game opens as a desktop window with:
+The screenshots below show the main gameplay screen, theme support, difficulty selection, and end-game feedback.
 
-- A 3 x 3 game board on the left
-- Status, marks, difficulty, scoreboard, and controls on the right
-- Theme and sound controls in the header
+| Light theme gameplay | Dark theme gameplay |
+|---|---|
+| ![Light theme gameplay](assets/screenshots/light-theme-gameplay.png) | ![Dark theme gameplay](assets/screenshots/dark-theme-gameplay.png) |
 
-Add screenshots in the `assets/screenshots/` folder using these file names:
-
-| Screenshot | File path | What to capture |
-|---|---|---|
-| Light theme gameplay | `assets/screenshots/light-theme-gameplay.png` | Main game window in light theme with a few moves played |
-| Dark theme gameplay | `assets/screenshots/dark-theme-gameplay.png` | Same game window after switching to dark theme |
-| Difficulty controls | `assets/screenshots/difficulty-controls.png` | Easy, Medium, and Hard buttons visible in the side panel |
-| Winning state | `assets/screenshots/winning-state.png` | Final board with a winning line and updated status |
-
-When screenshots are added at these paths, GitHub will render them here:
-
-![Light theme gameplay](assets/screenshots/light-theme-gameplay.png)
-
-![Dark theme gameplay](assets/screenshots/dark-theme-gameplay.png)
-
-![Difficulty controls](assets/screenshots/difficulty-controls.png)
-
-![Winning state](assets/screenshots/winning-state.png)
+| Difficulty controls | Winning state |
+|---|---|
+| ![Difficulty controls](assets/screenshots/difficulty-controls.png) | ![Winning state](assets/screenshots/winning-state.png) |
 
 ## Project Structure
 
